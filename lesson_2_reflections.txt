@@ -9,3 +9,7 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	Add modified file to staging area then use git diff --staged to compare code between staging area and repository, we can use the output to remaind us when to commit accroding to the "one commit per logical change" criteria.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	When we want to try out new features while we don't want to influence the main branch. In that case, branches can help us to have experiments and at the same time keeping our main branch orgnaized.
