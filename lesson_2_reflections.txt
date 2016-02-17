@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	use git init to initialize a repository, then we are on the master branch of on the repository. Git initialize a vide version control library to track all the files in the repository, howerver, because we haven't made any commit yet. All the files in the repository are untracked.
+	
