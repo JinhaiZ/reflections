@@ -17,3 +17,7 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 	We can use "git log --graph --oneline master branch_name" to visualize the master branch as well as the branch_name branch. The diagram shown in the terminal is a visualized version of git log  that makes it a lot easier for us to know the structure of  a branch or serveal branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	By merging two branches together, we can have the features appear either in one of the two branches work together in the merged branch.
