@@ -11,3 +11,11 @@ automatically stay up-to-date with your remote repository?
    should appear on the GitHub website, it's better to use manually pulling 
    in order that every version of my project that appear on GitHub is ready
    to use.
+
+ Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+    Fork is a kind of clone which happpens only at GitHub when we copy other's 
+    repository to our GitHub; clones can happen between two local repositories or
+    between a local repository and a GitHub repository when we copy a GitHub
+    repository to local repository; branches are different workflow within a project, 
+    when we do fork or clone, we copy every branches of the repository.
