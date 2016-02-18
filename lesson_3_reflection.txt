@@ -26,3 +26,11 @@ automatically stay up-to-date with your remote repository?
 
      We can do that by git fetch origin, then we can use git diff to compare the local
      branch and the newest remote branch without merging them.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+ what would be harder?
+
+     Probably we will sit together around a table and collaborate with each other, 
+     communication within the group is easier, because one can communicate with the
+     other directly. However, rasing efficiency is harder especially when writing code, 
+     beacuse mangaging conflicts in code is a lot more harder than using GitHub
