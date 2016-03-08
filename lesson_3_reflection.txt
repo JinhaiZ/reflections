@@ -34,3 +34,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
      communication within the group is easier, because one can communicate with the
      other directly. However, rasing efficiency is harder especially when writing code, 
      beacuse mangaging conflicts in code is a lot more harder than using GitHub
+
+When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+
+    
